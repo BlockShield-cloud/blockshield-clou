@@ -92,7 +92,7 @@
 
 [![Twitter](https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge)](https://x.com/blockshieldinf)
 [![Discord](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge)](https://discord.com/users/847139454787387413)
-[![Moti.bio](https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge)](https://moti.bio/blockshield)
+[![Moti.bio](https://img.shields.io/static/v1?message=Medium&logo=moti.bio&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge)](https://moti.bio/blockshield)
 
 ## 📊 Statistic
 
